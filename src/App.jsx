@@ -32,7 +32,7 @@ export default function App() {
   useEffect(() => {
     setOurDeck(Array(10).fill(null)); // Reset only our deck when our hero changes
   }, [ourHero]);
-  
+
   useEffect(() => {
     setEnemyDeck(Array(10).fill(null)); // Reset only enemy deck when enemy hero changes
   }, [enemyHero]);
@@ -47,9 +47,9 @@ export default function App() {
     let deck = deckType === "enemy" ? enemyDeck : ourDeck;
     let setDeck = deckType === "enemy" ? setEnemyDeck : setOurDeck;
     let newDeck = [...deck];
-  
+
     let cardSize = card.size === "medium" ? 2 : card.size === "large" ? 3 : 1;
-  
+
     // Try placing normally first
     let canPlaceNormally = true;
     for (let i = 0; i < cardSize; i++) {
@@ -58,7 +58,7 @@ export default function App() {
         break;
       }
     }
-    
+
     if (canPlaceNormally) {
       newDeck[index] = card;
       for (let i = 1; i < cardSize; i++) newDeck[index + i] = "merged";
@@ -68,131 +68,131 @@ export default function App() {
       setAvailableCards([]);
       return;
     }
-  
+
     // Adjust position if normal placement is blocked
     let adjustedIndex = null;
-  
+
     if (cardSize === 2) { // Medium Card (2 Slots)
       if ((index + 1 < newDeck.length && newDeck[index + 1] !== null) &&
-          index - 1 >= 0 && newDeck[index - 1] === null) {
+        index - 1 >= 0 && newDeck[index - 1] === null) {
         adjustedIndex = index - 1; // Move left
       } else if ((index - 1 >= 0 && newDeck[index - 1] !== null) &&
-                 index + 1 < newDeck.length && newDeck[index + 1] === null) {
+        index + 1 < newDeck.length && newDeck[index + 1] === null) {
         adjustedIndex = index; // Stay in place
       }
     } else if (cardSize === 3) { // Large Card (3 Slots)
       if ((index + 1 < newDeck.length && newDeck[index + 1] !== null) &&
-          index - 2 >= 0 &&
-          newDeck[index - 1] === null &&
-          newDeck[index - 2] === null) {
+        index - 2 >= 0 &&
+        newDeck[index - 1] === null &&
+        newDeck[index - 2] === null) {
         adjustedIndex = index - 2; // Shift left
       } else if ((index - 1 >= 0 && newDeck[index - 1] !== null) &&
-                 index + 2 < newDeck.length &&
-                 newDeck[index + 1] === null &&
-                 newDeck[index + 2] === null) {
+        index + 2 < newDeck.length &&
+        newDeck[index + 1] === null &&
+        newDeck[index + 2] === null) {
         adjustedIndex = index; // Stay in place
       }
     }
-  
+
     // If we found a valid adjusted position, place the card
     if (adjustedIndex !== null) {
       newDeck[adjustedIndex] = card;
       for (let i = 1; i < cardSize; i++) newDeck[adjustedIndex + i] = "merged";
       setDeck(newDeck);
     }
-  
+
     // Reset selection
     setSelectingFor(null);
     setSelectingSize(null);
     setAvailableCards([]);
   };
-  
+
 
   const moveCard = (deckType, index, direction) => {
     let deck = deckType === "enemy" ? enemyDeck : ourDeck;
     let setDeck = deckType === "enemy" ? setEnemyDeck : setOurDeck;
     let newDeck = [...deck];
-  
+
     if (!newDeck[index] || newDeck[index] === "merged") return; // No card or already merged
-  
+
     let card = newDeck[index];
     let cardSize = card.size === "medium" ? 2 : card.size === "large" ? 3 : 1;
-  
+
     // Find leftmost index of the card
     let leftmostIndex = index;
     while (leftmostIndex > 0 && newDeck[leftmostIndex - 1] === "merged") {
       leftmostIndex--;
     }
-  
+
     let rightmostIndex = leftmostIndex + cardSize - 1;
-  
+
     let targetLeft = leftmostIndex + direction;
     let targetRight = rightmostIndex + direction;
-  
+
     // Ensure movement stays within bounds
     if (targetLeft < 0 || targetRight >= newDeck.length) return;
-  
+
     // Check if target slots are free
     for (let i = 0; i < cardSize; i++) {
       if (newDeck[targetLeft + i] !== null && newDeck[targetLeft + i] !== "merged") return;
     }
-  
+
     // Clear old slots
     for (let i = 0; i < cardSize; i++) {
       newDeck[leftmostIndex + i] = null;
     }
-  
+
     // Place new card and merged slots
     newDeck[targetLeft] = card;
     for (let i = 1; i < cardSize; i++) {
       newDeck[targetLeft + i] = "merged";
     }
-  
+
     setDeck(newDeck);
   };
-  
-  
+
+
   const deleteCard = (deckType, index) => {
     let deck = deckType === "enemy" ? enemyDeck : ourDeck;
     let setDeck = deckType === "enemy" ? setEnemyDeck : setOurDeck;
     let newDeck = [...deck];
-  
+
     if (newDeck[index] && newDeck[index] !== "merged") {
       let cardSize = newDeck[index].size === "medium" ? 2 : newDeck[index].size === "large" ? 3 : 1;
-  
+
       // Remove the card and its merged slots
       for (let i = 0; i < cardSize; i++) {
         if (index + i < newDeck.length) {
           newDeck[index + i] = null;
         }
       }
-  
+
       setDeck(newDeck);
     }
   };
 
-const [cardDetails, setCardDetails] = useState([]);
+  const [cardDetails, setCardDetails] = useState([]);
 
-const fetchCardDetails = async () => {
-  const allCards = [...ourDeck, ...enemyDeck]
-    .filter(card => card && card !== "merged")
-    .map(card => encodeURIComponent(card.name)) // Encode names for URL safety
-    .join(",");
+  const fetchCardDetails = async () => {
+    const allCards = [...ourDeck, ...enemyDeck]
+      .filter(card => card && card !== "merged")
+      .map(card => encodeURIComponent(card.name)) // Encode names for URL safety
+      .join(",");
 
-  if (!allCards) return; // No cards selected
+    if (!allCards) return; // No cards selected
 
-  try {
-    const response = await fetch(`https://bazaar-broker-api.azurewebsites.net/${allCards}`, {
-      method: "GET",
-      headers: { "Content-Type": "application/json" },
-    });
+    try {
+      const response = await fetch(`https://localhost:7165/${allCards}`, {
+        method: "GET",
+        headers: { "Content-Type": "application/json" },
+      });
 
-    const data = await response.json();
-    setCardDetails(data);
-  } catch (error) {
-    console.error("Error fetching card details:", error);
-  }
-};
+      const data = await response.json();
+      setCardDetails(data);
+    } catch (error) {
+      console.error("Error fetching card details:", error);
+    }
+  };
 
   return (
     <div className="flex flex-col items-center p-6 bg-gray-900 text-white min-h-screen">
@@ -279,7 +279,6 @@ const fetchCardDetails = async () => {
                     <button key={size} className="bg-gray-600 p-3 rounded-lg text-white" onClick={() => {
                       setSelectingSize(size)
                       console.log(size);
-                      
                     }}>{size}</button>
                   ))}
                 </div>
@@ -301,10 +300,13 @@ const fetchCardDetails = async () => {
           </div>
         </div>
       )}
-            {/* "Get Info" Button */}
-      <button 
+      {/* "Get Info" Button */}
+      <button
         className="mt-6 p-3 bg-yellow-500 text-black rounded-lg font-bold hover:bg-yellow-600"
-        onClick={fetchCardDetails}
+        onClick={async () => {
+          await fetchCardDetails();
+          console.log("Fetched Card Details:", cardDetails);
+        }}
       >
         Get Info
       </button>
