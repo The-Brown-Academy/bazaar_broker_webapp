@@ -172,6 +172,9 @@ export default function App() {
   };
 
   const [cardDetails, setCardDetails] = useState([]);
+  const API_BASE_URL = process.env.NODE_ENV === "development"
+    ? "https://localhost:7165"
+    : "bazaar-broker-api.azurewebsites.net";
 
   const fetchCardDetails = async () => {
     const allCards = [...ourDeck, ...enemyDeck]
@@ -182,7 +185,7 @@ export default function App() {
     if (!allCards) return; // No cards selected
 
     try {
-      const response = await fetch(`https://localhost:7165/${allCards}`, {
+      const response = await fetch(`${API_BASE_URL}/${allCards}`, {
         method: "GET",
         headers: { "Content-Type": "application/json" },
       });
