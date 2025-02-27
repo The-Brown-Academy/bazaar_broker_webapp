@@ -1,0 +1,2580 @@
+{
+  "Items": [
+    {
+      "Name": "Anchor",
+      "ImageUrl": "/Vanessa_med/Anchor.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Vanessa",
+        "Medium",
+        "Aquatic",
+        "Damage",
+        "Haste",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 12 seconds",
+        "Deal damage equal to (  20%  \u00BB 30%   ) of your enemy\u0027s Max Health.",
+        "When you use an adjacent item, this gains Haste for (  2  \u00BB 4   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 4 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 4 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Arbalest",
+      "ImageUrl": "/Vanessa_med/Arbalest.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "Ammo",
+        "Damage",
+        "HasteReference",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 8 seconds",
+        "Ammo Max 1",
+        "Deal 100 damage.",
+        "When you Haste, this gains (  60  \u00BB 80  \u00BB 100   ) damage for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 3 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 3 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 3 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Astrolabe",
+      "ImageUrl": "/Vanessa_med/Astrolabe.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "Haste",
+        "Tool"
+      ],
+      "Attributes": [
+        "Cooldown (  6  \u00BB 5  \u00BB 4   ) seconds",
+        "Haste a non-weapon item for 2 second(s).",
+        "When you use another non-weapon item, Charge this 1 second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "This has double Haste duration."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 8 for each non-Weapon item you have."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 12 for each non-Weapon item you have."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 1 for each non-Weapon item you have."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 1 for each non-Weapon item you have."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Your non-Weapon items gain \u002B10% Crit Chance for the fight."
+        }
+      ]
+    },
+    {
+      "Name": "Barrel",
+      "ImageUrl": "/Vanessa_med/Barrel.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "Shield"
+      ],
+      "Attributes": [
+        "Cooldown 5 seconds",
+        "Shield 20.",
+        "When you use an adjacent non-weapon item, this gains (  10  \u00BB 15  \u00BB 20  \u00BB 25   ) Shield for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Shield."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        }
+      ]
+    },
+    {
+      "Name": "Beach Ball",
+      "ImageUrl": "/Vanessa_med/BeachBall.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "Aquatic",
+        "Haste",
+        "Toy"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Haste (  1  \u00BB 2  \u00BB 3  \u00BB 4   ) Aquatic or Toy item(s) for 2 second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "This has double Haste duration."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 10 for each Aquatic or Toy item you have."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 15 for each Aquatic or Toy item you have."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 1 for each Aquatic or Toy item you have."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 1 for each Aquatic or Toy item you have."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Your Aquatic and Toy items gain \u002B10% Crit Chance for the fight."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Blunderbuss",
+      "ImageUrl": "/Vanessa_med/Blunderbuss.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Vanessa",
+        "Medium",
+        "Ammo",
+        "BurnReference",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Ammo Max 6",
+        "Deal 100 damage.",
+        "When you Burn, charge this (  1  \u00BB 2   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Cannon",
+      "ImageUrl": "/Vanessa_med/Cannon.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "Ammo",
+        "Burn",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Ammo Max 2",
+        "Deal (  25  \u00BB 50  \u00BB 100  \u00BB 200   ) damage.",
+        "Burn (  3  \u00BB 6  \u00BB 9  \u00BB 12   )."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 6 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 6 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 6 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to this item\u0027s Burn."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "This has double Burn."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Captain\u0027s Wheel",
+      "ImageUrl": "/Vanessa_med/CaptainsWheel.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "Aquatic",
+        "Haste",
+        "Tool"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Haste adjacent items for (  1  \u00BB 2  \u00BB 3   ) second(s).",
+        "If you have a Vehicle or Large item, reduce this item\u0027s cooldown by 50%."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "This has double Haste duration."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 20."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 40."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 2."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 4."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Coral Armor",
+      "ImageUrl": "/Vanessa_med/CoralArmor.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "Apparel",
+        "Aquatic",
+        "Shield"
+      ],
+      "Attributes": [
+        "Cooldown 5 seconds",
+        "Shield 50.",
+        "When you buy another Aquatic item, this gains (  5  \u00BB 10  \u00BB 15  \u00BB 20   ) Shield."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Shield."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        }
+      ]
+    },
+    {
+      "Name": "Cutlass",
+      "ImageUrl": "/Vanessa_med/Cutlass.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "CritReference",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 5 seconds",
+        "Multicast 2",
+        "Deal (  10  \u00BB 20  \u00BB 30  \u00BB 40   ) damage.",
+        "This deals double Crit damage."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Disguise",
+      "ImageUrl": "/Vanessa_med/Disguise.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "Apparel",
+        "Crit"
+      ],
+      "Attributes": [
+        "When you buy this, get a non-Vanessa item.",
+        "Your items from other Heroes have (  \u002B15%  \u00BB \u002B30%  \u00BB \u002B50%   ) Crit Chance."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "When you use an item from another hero, Slow 1 item for 3 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "When you use an item from another hero, Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "When you use an item from another hero, haste it for 3 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "When you use an item from another hero, shield 20."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "When you use an item from another hero, heal 30."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "When you use an item from another hero, poison 2."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "When you use an item from another hero, burn 3."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "This has double Crit Chance bonus."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Dock Lines",
+      "ImageUrl": "/Vanessa_med/DockLines.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "Aquatic",
+        "Slow",
+        "Tool"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Slow (  2  \u00BB 3  \u00BB 4   ) item(s) for 3 second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "This has double Slow duration."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 40."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 60."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 4."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 6."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Double Barrel",
+      "ImageUrl": "/Vanessa_med/DoubleBarrel.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "Ammo",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 3 seconds",
+        "Ammo Max 2",
+        "Multicast 2",
+        "Deal (  25  \u00BB 50  \u00BB 75  \u00BB 100   ) damage."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Figurehead",
+      "ImageUrl": "/Vanessa_med/Figurehead.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "Aquatic",
+        "Cooldown",
+        "DamageReference"
+      ],
+      "Attributes": [
+        "Aquatic items to the left of this have their cooldowns reduced by (  10%  \u00BB 20%  \u00BB 30%   ).",
+        "Weapons to the right of this have (  \u002B25  \u00BB \u002B50  \u00BB \u002B100   ) damage."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "When you use an adjacent item, slow 1 item for 3 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "When you use an adjacent item, freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "When you use an adjacent item, haste 1 item for 3 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "When you use an adjacent item, shield 20."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "When you use an adjacent item, heal 30."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "When you use an adjacent item, poison 2."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "When you use an adjacent item, burn 3."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has double Damage bonus and double Cooldown Reduction."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Your items have \u002B25% Crit Chance."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Fishing Net",
+      "ImageUrl": "/Vanessa_med/FishingNet.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "Aquatic",
+        "Slow",
+        "Tool"
+      ],
+      "Attributes": [
+        "Cooldown 8 seconds",
+        "Slow (  1  \u00BB 2  \u00BB 3  \u00BB 4   ) item for 3 second(s).",
+        "At the start of each day, get a Piranha."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "This has double Slow duration."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 3 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 3 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 80."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 120."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 8."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 12."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Your Piranhas have \u002B50% Crit Chance."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Fishing Rod",
+      "ImageUrl": "/Vanessa_med/FishingRod.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "Aquatic",
+        "Haste",
+        "Tool"
+      ],
+      "Attributes": [
+        "Cooldown 8 seconds",
+        "Haste the Aquatic item to the right for (  2  \u00BB 3  \u00BB 4  \u00BB 5   ) second(s).",
+        "At the start of each day, get a Small aquatic item."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 3 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 3 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "This has double Haste duration."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 80."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 120."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 8."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 12."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Your Aquatic items have \u002B25% Crit Chance."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Harpoon",
+      "ImageUrl": "/Vanessa_med/Harpoon.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "Ammo",
+        "Aquatic"
+      ],
+      "Attributes": [
+        "Cooldown (  8  \u00BB 7  \u00BB 6  \u00BB 5   ) seconds",
+        "Ammo Max 1",
+        "Destroy a small item."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 4 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 4 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 4 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 60."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 90."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 6."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 9."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Javelin",
+      "ImageUrl": "/Vanessa_med/Javelin.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "Ammo",
+        "Damage",
+        "HasteReference",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Ammo Max 2",
+        "Deal (  120  \u00BB 180  \u00BB 240   ) damage.",
+        "When you Haste, Reload this 1 Ammo."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Katana",
+      "ImageUrl": "/Vanessa_med/Katana.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 2 seconds",
+        "Deal (  6  \u00BB 12  \u00BB 18  \u00BB 24   ) damage."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Langxian",
+      "ImageUrl": "/Vanessa_med/Langxian.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 10 seconds",
+        "Deal 40 damage.",
+        "When you win a fight with Langxian in play, this gains (  40  \u00BB 60  \u00BB 80  \u00BB 100   ) damage."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 3 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 3 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 3 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Life Preserver",
+      "ImageUrl": "/Vanessa_med/LifePreserver.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "Aquatic",
+        "Heal",
+        "Shield"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Shield (  10  \u00BB 20  \u00BB 40  \u00BB 80   ).",
+        "The first time you would die each fight, Heal (  200  \u00BB 600  \u00BB 1200  \u00BB 2000   )."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "This has double Heal."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        }
+      ]
+    },
+    {
+      "Name": "Lockbox",
+      "ImageUrl": "/Vanessa_med/Lockbox.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "DamageReference",
+        "Economy",
+        "Value"
+      ],
+      "Attributes": [
+        "When you win a fight, this gains (  1  \u00BB 2  \u00BB 3   ) value.",
+        "Your weapons have \u002B damage equal to this item\u0027s value. (  [4]  \u00BB [8]  \u00BB [16]   )"
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "This has double Value gain."
+        },
+        {
+          "Name": "Heavy",
+          "Effect": "The first time you fall below half health each fight, Slow 2 items for 4 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "The first time you fall below half health each fight, Freeze 2 medium or small items for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "The first time you fall below half health each fight, Haste 2 items for 4 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Your Shield items have \u002B Shield equal to this item\u0027s value."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Your Heal items have \u002B Heal equal to this item\u0027s value."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Your Poison items have \u002B Poison equal to 10% of this item\u0027s value."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Your Burn items have \u002B Burn equal to 10% of this item\u0027s value."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has double Value gain."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Your weapons have \u002B Crit Chance % equal to this item\u0027s value."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Musket",
+      "ImageUrl": "/Vanessa_med/Musket.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "Ammo",
+        "BurnReference",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 5 seconds",
+        "Ammo Max 1",
+        "Crit Chance 100%",
+        "Deal (  50  \u00BB 100  \u00BB 200   ) damage.",
+        "When you Burn, reload this 1 ammo."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 6 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 6 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 6 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "This has double Crit Damage."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Pistol Sword",
+      "ImageUrl": "/Vanessa_med/PistolSword.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Vanessa",
+        "Medium",
+        "Ammo",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 3 seconds",
+        "Ammo Max 3",
+        "Deal (  24  \u00BB 32   ) damage.",
+        "When you use an Ammo item, deal (  24  \u00BB 32   ) damage."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "When you use an Ammo item, Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "When you use an Ammo item, Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "When you use an Ammo item, Haste 1 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "When you use an Ammo item, Shield 15."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "When you use an Ammo item, Heal 20."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "When you use an Ammo item, Poison 1."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "When you use an Ammo item, Burn 2."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "When you use an Ammo item, your items gain \u002B5% Crit Chance for the fight."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Powder Keg",
+      "ImageUrl": "/Vanessa_med/PowderKeg.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "BurnReference",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 20 seconds",
+        "Deal damage equal to (  30%  \u00BB 40%  \u00BB 50%   ) of your enemy\u0027s Max Health and destroy this.",
+        "When you Burn, charge this 2 second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 10 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 10 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 10 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 500."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 750."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This deals double Damage."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Pufferfish",
+      "ImageUrl": "/Vanessa_med/Pufferfish.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "Aquatic",
+        "Friend",
+        "HasteReference",
+        "Poison"
+      ],
+      "Attributes": [
+        "Cooldown 8 seconds",
+        "Poison (  4  \u00BB 6  \u00BB 8  \u00BB 10   ).",
+        "When you Haste, charge this 2 second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to 10 times this item\u0027s Poison."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to 10 times this item\u0027s Poison."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "This has double Poison."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to this item\u0027s Poison."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Ramrod",
+      "ImageUrl": "/Vanessa_med/Ramrod.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "AmmoReference",
+        "Tool"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Reload adjacent Ammo items (  1  \u00BB 2  \u00BB 3   ) Ammo.",
+        "Your Ammo items have (  \u002B20%  \u00BB \u002B30%  \u00BB \u002B40%   ) Crit Chance.",
+        "When one of your items run out of ammo, Charge this 1 second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "When you use an Ammo item, Shield 10."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "When you use an Ammo item, Heal 15."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "When you use an Ammo item, Poison 1."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "When you use an Ammo item, Burn 1."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Adjacent Ammo items have \u002B25% Crit Chance."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Repeater",
+      "ImageUrl": "/Vanessa_med/Repeater.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "Ammo",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Ammo Max 6",
+        "Deal 60 damage.",
+        "When you use another Ammo item, charge this (  1  \u00BB 2  \u00BB 3   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 3 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 3 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Rifle",
+      "ImageUrl": "/Vanessa_med/Rifle.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "Ammo",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 2 seconds",
+        "Ammo Max 1",
+        "Deal (  6  \u00BB 12  \u00BB 18  \u00BB 24   ) damage.",
+        "When you use this, reload this 1 Ammo if it is your only weapon."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Rowboat",
+      "ImageUrl": "/Vanessa_med/Rowboat.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "Aquatic",
+        "Haste",
+        "Vehicle"
+      ],
+      "Attributes": [
+        "Cooldown 8 seconds",
+        "Charge adjacent items (  1  \u00BB 2  \u00BB 3   ) second(s).",
+        "If you have 5 or more unique Types, reduce this item\u0027s cooldown by 50%."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 10 for each Unique type you have."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 15 for each Unique type you have."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 1 for each Unique type you have."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 2 for each Unique type you have."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Your items have \u002B10% Crit Chance."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Sextant",
+      "ImageUrl": "/Vanessa_med/Sextant.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "Aquatic",
+        "Crit",
+        "Haste",
+        "Tool"
+      ],
+      "Attributes": [
+        "When you Crit, Haste 1 item for (  1  \u00BB 2  \u00BB 3   ) second(s).",
+        "Adjacent items have (  \u002B15%  \u00BB \u002B30%  \u00BB \u002B50%   ) Crit Chance."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "When you Crit, Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "When you Crit, Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "This has double Haste duration."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "When you Crit, Shield 40."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "When you Crit, Heal 20."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "When you Crit, Poison 1."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "When you Crit, Burn 2."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has double Crit Chance bonus."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Your items have \u002B10% Crit Chance."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Sharkclaws",
+      "ImageUrl": "/Vanessa_med/Sharkclaws.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "Aquatic",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Deal (  12  \u00BB 18  \u00BB 24  \u00BB 30   ) damage.",
+        "Your Weapons gain (  \u002B3  \u00BB \u002B6  \u00BB \u002B9  \u00BB \u002B12   ) damage for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to this 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Sharkray",
+      "ImageUrl": "/Vanessa_med/Sharkray.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "Aquatic",
+        "Damage",
+        "Friend",
+        "HasteReference",
+        "Ray",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Deal 30 damage.",
+        "When you Haste, this gains (  20  \u00BB 30  \u00BB 40   ) damage for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Shovel",
+      "ImageUrl": "/Vanessa_med/Shovel.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "Damage",
+        "Tool",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 10 seconds",
+        "Deal (  50  \u00BB 75  \u00BB 100  \u00BB 125   ) damage.",
+        "At the start of each day, get a small item from any hero."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 3 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 3 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 3 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Sniper Rifle",
+      "ImageUrl": "/Vanessa_med/SniperRifle.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 10 seconds",
+        "Deal 100 damage.",
+        "This deals (  3  \u00BB 5  \u00BB 10   ) times more damage if it is your only weapon."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 3 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 3 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 3 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Spyglass",
+      "ImageUrl": "/Vanessa_med/Spyglass.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Vanessa",
+        "Medium",
+        "Cooldown",
+        "Crit",
+        "Tool"
+      ],
+      "Attributes": [
+        "Adjacent items have (  \u002B25%  \u00BB \u002B50%   ) Crit Chance.",
+        "At the start of each fight, an enemy item has its cooldown increased by (  3  \u00BB 6   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "When you crit with an adjacent item, Slow 1 item for 3 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "When you crit with an adjacent item, Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "When you crit with an adjacent item, haste 1 item for 3 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "When you crit with an adjacent item, shield 20."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "When you crit with an adjacent item, heal 30."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "When you crit with an adjacent item, poison 2."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "When you crit with an adjacent item, burn 3."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has double Crit Chance bonus."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "This has double Crit Chance bonus."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Star Chart",
+      "ImageUrl": "/Vanessa_med/StarChart.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Vanessa",
+        "Medium",
+        "Cooldown",
+        "Crit",
+        "Tool"
+      ],
+      "Attributes": [
+        "Adjacent items have (  \u002B10%  \u00BB \u002B15%  \u00BB \u002B20%  \u00BB \u002B25%   ) Crit Chance.",
+        "Adjacent items have their cooldown reduced by (  10%  \u00BB 15%  \u00BB 20%  \u00BB 25%   )."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "The first time you fall below half health each fight, Slow 3 items for 4 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "The first time you fall below half health each fight, Freeze 2 items for 4 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "The first time you fall below half health each fight, Haste 3 items for 4 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "The first time you fall below half health each fight, Shield 120."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "The first time you fall below half health each fight, Heal 180."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "The first time you fall below half health each fight, poison 12."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "The first time you fall below half health each fight, burn 18."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has double Crit Chance bonus and cooldown reduction."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "This has double Crit Chance bonus."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Swash Buckle",
+      "ImageUrl": "/Vanessa_med/SwashBuckle.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Vanessa",
+        "Medium",
+        "Apparel",
+        "Crit",
+        "DamageReference",
+        "HealReference",
+        "ShieldReference"
+      ],
+      "Attributes": [
+        "Adjacent items have (  \u002B25%  \u00BB \u002B50%   ) Crit Chance.",
+        "Adjacent items have bonus damage, heal, or shield equal to their Crit Chance."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Shiny",
+          "Effect": "This has double damage, shield and heal bonus."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "This has double Crit Chance bonus."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Torpedo",
+      "ImageUrl": "/Vanessa_med/Torpedo.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "Ammo",
+        "Aquatic",
+        "Damage",
+        "Tech",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 8 seconds",
+        "Ammo Max 1",
+        "Deal 100 damage.",
+        "When you use another Aquatic or Ammo item, this gains (  25  \u00BB 50  \u00BB 75   ) damage for the fight.",
+        "If the item is Large, Reload 1 Ammo."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 4 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 4 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 4 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Tripwire",
+      "ImageUrl": "/Vanessa_med/Tripwire.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Vanessa",
+        "Medium",
+        "Slow"
+      ],
+      "Attributes": [
+        "When your enemy uses an item, Slow it for (  1  \u00BB 2   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "This has double Slow duration."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "When your enemy uses a small or medium item, Freeze it for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "When your enemy uses an item, haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "When your enemy uses an item, shield 20."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "When your enemy uses an item, heal 40."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "When your enemy uses an item, poison 2."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "When your enemy uses an item, Burn 4."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has double Slow duration."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Turtle Shell",
+      "ImageUrl": "/Vanessa_med/TurtleShell.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Vanessa",
+        "Medium",
+        "Aquatic",
+        "Shield"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Shield 25.",
+        "Your Shield items gain (  \u002B10  \u00BB \u002B15   ) Shield for the fight.",
+        "When you use another non-weapon item, charge this 1 second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Shield."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Wanted Poster",
+      "ImageUrl": "/Vanessa_med/WantedPoster.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "Crit",
+        "Experience"
+      ],
+      "Attributes": [
+        "When you win a fight against a player, gain (  1  \u00BB 2  \u00BB 3   ) XP. If you had Wanted Poster in play, gain 1 additional XP.",
+        "Your items have (  10%  \u00BB 20%  \u00BB 30%   ) Crit Chance."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "The first time you fall below half health each fight, Slow 3 items for 4 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "The first time you fall below half health each fight, Freeze 2 items for 4 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "The first time you fall below half health each fight, Haste 3 items for 4 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "The first time you fall below half health each fight, Shield 120."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "The first time you fall below half health each fight, Heal 180."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "The first time you fall below half health each fight, poison 12."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "The first time you fall below half health each fight, burn 18."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has double Experience bonus."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "This has double Crit Chance bonus."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Weather Glass",
+      "ImageUrl": "/Vanessa_med/WeatherGlass.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Vanessa",
+        "Medium",
+        "Burn",
+        "FreezeReference",
+        "Poison",
+        "SlowReference",
+        "Tool"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Burn (  4  \u00BB 6  \u00BB 8   ).",
+        "Poison (  2  \u00BB 3  \u00BB 4   ).",
+        "If you have another item with Burn, Poison, Slow, or Freeze, this has \u002B1 Multicast for each."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to 10 times this item\u0027s Burn."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to 10 times this item\u0027s Burn."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "This has double Poison."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "This has double Burn."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    }
+  ]
+}

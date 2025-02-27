@@ -1,0 +1,2461 @@
+{
+  "Items": [
+    {
+      "Name": "Apropos Chapeau",
+      "ImageUrl": "/Pyg_med/AproposChapeau.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Apparel",
+        "DamageReference",
+        "Shield"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Your weapons gain (  6  \u00BB 9  \u00BB 12   ) Damage for the fight.",
+        "Your Heal items gain (  6  \u00BB 9  \u00BB 12   ) Heal for the fight.",
+        "Your Shield items gain (  6  \u00BB 9  \u00BB 12   ) Shield for the fight.",
+        "If you have another Tool, Weapon, Property or Apparel this has \u002B1 Multicast for each."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 30."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 45."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Your Poison items gain \u002B1 poison for the fight."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Your Burn items gain \u002B1 burn for the fight."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Your items gain 3% Crit Chance for the fight."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Atlas Stone",
+      "ImageUrl": "/Pyg_med/AtlasStone.avif",
+      "Tags": [
+        "Diamond\u002B",
+        "Pygmalien",
+        "Medium",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Deal 1 damage.",
+        "Double this item\u0027s damage for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Atlatl",
+      "ImageUrl": "/Pyg_med/Atlatl.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Cooldown",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 10 seconds",
+        "Deal (  20  \u00BB 40  \u00BB 60  \u00BB 80   ) damage.",
+        "This item\u0027s cooldown is reduced by 1% for every 2 damage it has."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "ATM",
+      "ImageUrl": "/Pyg_med/ATM.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Economy",
+        "Income",
+        "Property",
+        "Shield",
+        "Tech"
+      ],
+      "Attributes": [
+        "Cooldown 3 seconds",
+        "Shield equal to (  1  \u00BB 2  \u00BB 3  \u00BB 4   ) times your Income.",
+        "When you buy this, gain (  \u002B1  \u00BB \u002B2  \u00BB \u002B3  \u00BB \u002B5   ) Income."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Golden",
+          "Effect": "This has double income bonus."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Shield."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Balcony",
+      "ImageUrl": "/Pyg_med/Balcony.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Cooldown",
+        "Property",
+        "Value"
+      ],
+      "Attributes": [
+        "The Property to the left of this has double value in combat and has its cooldown reduced by (  10%  \u00BB 20%  \u00BB 30%   )."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "The Property to the left of this has triple value."
+        },
+        {
+          "Name": "Heavy",
+          "Effect": "When you use the property to the left of this, Slow 2 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "When you use the property to the left of this, Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "When you use the property to the left of this, Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "When you use the property to the left of this, shield 20."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "When you use the property to the left of this, heal 30."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "When you use the property to the left of this, poison 2."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "When you use the property to the left of this, burn 3."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "The Property to the left has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "The Property to the left has \u002B50% Crit Chance."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Beehive",
+      "ImageUrl": "/Pyg_med/Beehive.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Charge",
+        "DamageReference",
+        "Property"
+      ],
+      "Attributes": [
+        "When your enemy uses a weapon, charge your Busy Bees 2 second(s).",
+        "When you buy a Property, get a Busy Bee and your Busy Bees gain (  \u002B5  \u00BB \u002B10  \u00BB \u002B15   ) damage."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "When you buy a property, gain 1 Gold."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Belt",
+      "ImageUrl": "/Pyg_med/Belt.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Apparel",
+        "Health"
+      ],
+      "Attributes": [
+        "You have (  \u002B50%  \u00BB \u002B75%  \u00BB \u002B100%   ) Max Health."
+      ],
+      "Enchantments": []
+    },
+    {
+      "Name": "Booby Trap",
+      "ImageUrl": "/Pyg_med/BoobyTrap.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Freeze",
+        "Toy"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Freeze 1 item for (  1  \u00BB 2  \u00BB 3   ) second(s).",
+        "When you use a Property, Charge this 1 second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "This has double Freeze duration."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 60."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 90."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 6."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 9."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast"
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "When you use a Property, your items gain \u002B20% Crit Chance for the fight."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Boomerang",
+      "ImageUrl": "/Pyg_med/Boomerang.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Damage",
+        "Economy",
+        "Toy",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Deal (  20  \u00BB 30  \u00BB 40  \u00BB 50   ) damage.",
+        "When you win a fight against a Monster with this, get a random Loot item."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "Get an additional Loot item."
+        },
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Bootstraps",
+      "ImageUrl": "/Pyg_med/Bootstraps.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Apparel"
+      ],
+      "Attributes": [
+        "Every 50 you spend, upgrade an item of a lower tier. [Gold Spent: 0]"
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "...and Enchant the item with Golden if able."
+        },
+        {
+          "Name": "Heavy",
+          "Effect": "...and Enchant the item with Heavy if able."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "...and Enchant the item with Icy if able."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "...and Enchant the item with Turbo if able."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "...and Enchant the item with Shielded if able."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "...and Enchant the item with Restorative if able."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "...and Enchant the item with Toxic if able."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "...and Enchant the item with Fiery if able."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "...and Enchant the item with Shiny if able."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "...and Enchant the item with Deadly if able."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "...and Enchant the item with Radiant if able."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "...and Enchant the item with Obsidian if able."
+        }
+      ]
+    },
+    {
+      "Name": "Briefcase",
+      "ImageUrl": "/Pyg_med/Briefcase.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Damage",
+        "Economy",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Deal (  20  \u00BB 40  \u00BB 60  \u00BB 80   ) damage.",
+        "When you sell this, get 2 Spare Change."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Golden",
+          "Effect": "When you sell this, fill your board and stash with spare change instead."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Bushel",
+      "ImageUrl": "/Pyg_med/Bushel.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Heal",
+        "ShieldReference"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Heal (  40  \u00BB 80  \u00BB 120  \u00BB 160   ).",
+        "When you Shield, charge this 1 second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s Heal."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "This has double Heal."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Heal."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Heal."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Caltrops",
+      "ImageUrl": "/Pyg_med/Caltrops.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Pygmalien",
+        "Medium",
+        "Damage",
+        "Toy",
+        "Weapon"
+      ],
+      "Attributes": [
+        "When your enemy uses an item, deal (  1  \u00BB 10   ) damage."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "When your enemy uses an item, Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "When your enemy uses an item, Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "When your enemy uses an item, Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "When your enemy uses an item, Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "When your enemy uses an item, Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "When your enemy uses an item, Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "When your enemy uses an item, Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "When your enemy uses an item, your items gain 5% Crit Chance for the fight."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Cargo Shorts",
+      "ImageUrl": "/Pyg_med/CargoShorts.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Apparel",
+        "Economy"
+      ],
+      "Attributes": [
+        "When you buy, sell or upgrade this, get 1 Candy and 1 Spare Change."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "Get 2 Gumballs and Spare Change instead."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "Get 2 Gumballs and Spare Change instead."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Cash Cannon",
+      "ImageUrl": "/Pyg_med/CashCannon.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Damage",
+        "Economy",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Deal (  50  \u00BB 100  \u00BB 200   ) damage.",
+        "When you gain gold, this gains \u002B damage equal to (  1x  \u00BB 2x  \u00BB 3x   ) the amount of gold gained."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Golden",
+          "Effect": "This gains additional damage equal equal to value of the gold gained."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Cash Register",
+      "ImageUrl": "/Pyg_med/CashRegister.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Economy",
+        "Tool"
+      ],
+      "Attributes": [
+        "At the start of each day, get 2 Spare Change."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "You have \u002B3 Income."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "At the start of each hour, get an additional 2 Spare Change."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Closed Sign",
+      "ImageUrl": "/Pyg_med/ClosedSign.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Pygmalien",
+        "Medium",
+        "Economy",
+        "Regen"
+      ],
+      "Attributes": [
+        "You have Regeneration equal to (  1x  \u00BB 2x   ) adjacent properties\u0027 values. [0]"
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "You have \u002B3 Income."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "You have additional Regeneration equal to the value of adjacent properties."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Adjacent properties have \u002B50% Crit Chance."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Crook",
+      "ImageUrl": "/Pyg_med/Crook.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Damage",
+        "DamageReference",
+        "Tool",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 5 seconds",
+        "Deal 16 damage.",
+        "Your Medium Weapons have (  \u002B8  \u00BB \u002B16  \u00BB \u002B24   ) Damage for each Medium item you have. [0]"
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Your items have \u002B10% Crit Chance for each Medium item you have."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Deed",
+      "ImageUrl": "/Pyg_med/Deed.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Value"
+      ],
+      "Attributes": [
+        "When you sell a Large item, this gains (  2  \u00BB 4  \u00BB 6   ) Sell Value.",
+        "Your items have double value in combat."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "This has double value."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "Double Value"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Dog",
+      "ImageUrl": "/Pyg_med/Dog.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Damage",
+        "Friend",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Deal (  10  \u00BB 20  \u00BB 40  \u00BB 80   ) Damage",
+        "When you sell a small item, this gains (  3  \u00BB 6  \u00BB 9  \u00BB 12   ) damage."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "Your Small items have \u002B1 value."
+        },
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Flail",
+      "ImageUrl": "/Pyg_med/Flail.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Multicast 3",
+        "Deal (  8  \u00BB 16  \u00BB 24  \u00BB 32   ) damage."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Ganjo",
+      "ImageUrl": "/Pyg_med/Ganjo.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "DamageReference",
+        "HealReference",
+        "ShieldReference"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Adjacent weapons gain (  10  \u00BB 15  \u00BB 20  \u00BB 25   ) Damage for the fight.",
+        "Adjacent Heal items gain (  10  \u00BB 15  \u00BB 20  \u00BB 25   ) Heal for the fight.",
+        "Adjacent Shield items gain (  10  \u00BB 15  \u00BB 20  \u00BB 25   ) Shield for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield bonus."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "This has double Heal bonus."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Adjacent Poison items gain 1 Poison for the fight."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Adjacent Burn items gain 1 burn for the fight."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Adjacent items gain 10% Crit Chance for the fight."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Globe",
+      "ImageUrl": "/Pyg_med/Globe.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Health",
+        "Tool"
+      ],
+      "Attributes": [
+        "At the start of each day, permanently gain (  100  \u00BB 200  \u00BB 300   ) Max Health."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "At the start of each fight, Slow 3 items for 5 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "At the start of each fight, Freeze 2 medium or small items for 4 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "At the start of each fight, Haste 3 items for 5 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "At the start of each fight, Shield 120."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "You have \u002B12 Regeneration."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "At the start of each fight, poison 12."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "At the start of each fight, burn 16."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has double Max Health gain."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "At the start of each day, your items gain 10% Crit Chance."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Golf Clubs",
+      "ImageUrl": "/Pyg_med/GolfClubs.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Damage",
+        "HealReference",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 7 seconds",
+        "Deal (  20  \u00BB 40  \u00BB 80  \u00BB 160   ) damage.",
+        "When you Heal, this gains (  5  \u00BB 10  \u00BB 15  \u00BB 20   ) damage for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Grindstone",
+      "ImageUrl": "/Pyg_med/Grindstone.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "DamageReference",
+        "Tool"
+      ],
+      "Attributes": [
+        "Cooldown 3 seconds",
+        "The weapon to the left of this gains (  \u002B10  \u00BB \u002B20  \u00BB \u002B30   ) damage for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "The Shield item to the left of this gains 20 Shield for the fight."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "The Heal item to the left of this gains 30 Heal for the fight."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "The Poison item to the left of this gains 2 Poison for the fight."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "The Burn item to the left of this gains 3 burn for the fight."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "The item to the left of this gains \u002B20% Crit Chance for the fight."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Gumball Machine",
+      "ImageUrl": "/Pyg_med/GumballMachine.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Gold",
+        "Shield",
+        "Toy"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Shield (  10  \u00BB 20  \u00BB 30   ).",
+        "At the start of each hour, spend 2 gold to get a Gumball."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "The Gumball is now free!"
+        },
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Shield."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Hammock",
+      "ImageUrl": "/Pyg_med/Hammock.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Pygmalien",
+        "Medium",
+        "Cooldown",
+        "Heal"
+      ],
+      "Attributes": [
+        "Cooldown 12 seconds",
+        "Heal (  100  \u00BB 200   ).",
+        "This item\u0027s cooldown is reduced by 5 seconds for each adjacent large item."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s Heal."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "This has double Heal."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Heal."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Heal."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Jaballian Longbow",
+      "ImageUrl": "/Pyg_med/JaballianLongbow.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Damage",
+        "HealthReference",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 8 seconds",
+        "Multicast 2",
+        "Deal (  30  \u00BB 60  \u00BB 120  \u00BB 240   ) damage.",
+        "This has \u002B1 Multicast if you have more health than your enemy."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Lion Cane",
+      "ImageUrl": "/Pyg_med/LionCane.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Pygmalien",
+        "Medium",
+        "Damage",
+        "Health",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Deal damage equal to (  10%  \u00BB 20%   ) of your Max Health.",
+        "When you Level Up, permanently gain (  100  \u00BB 200   ) Max Health."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 4 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 4 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 4 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Lumboars",
+      "ImageUrl": "/Pyg_med/Lumboars.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 8 seconds",
+        "Multicast 2",
+        "Deal (  5  \u00BB 10  \u00BB 20  \u00BB 40   ) damage.",
+        "Your weapons gain (  2  \u00BB 4  \u00BB 6  \u00BB 8   ) damage for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Masterpiece",
+      "ImageUrl": "/Pyg_med/Masterpiece.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Value"
+      ],
+      "Attributes": [
+        "At the start of each hour, this gains (  1  \u00BB 2  \u00BB 3   ) value."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "This has double value."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has double value gain."
+        }
+      ]
+    },
+    {
+      "Name": "Model Ship",
+      "ImageUrl": "/Pyg_med/ModelShip.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Aquatic",
+        "Shield",
+        "Toy",
+        "Vehicle"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Shield (  30  \u00BB 40  \u00BB 50   ).",
+        "Adjacent Toys have \u002B1 Multicast."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Shield."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Open Sign",
+      "ImageUrl": "/Pyg_med/OpenSign.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Pygmalien",
+        "Medium",
+        "DamageReference",
+        "Economy",
+        "ShieldReference"
+      ],
+      "Attributes": [
+        "Weapon Properties adjacent to this have \u002B Damage equal to (  1x  \u00BB 2x   ) the value of your highest value item. [0]",
+        "Shield Properties adjacent to this have \u002B Shield equal to (  1x  \u00BB 2x   ) the value of your highest value item. [0]"
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "Adjacent properties have double value."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has double Damage and Shield bonus."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Shield Properties adjacent to this have \u002B Crit Chance equal to the value of your highest value item. [0]"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Phonograph",
+      "ImageUrl": "/Pyg_med/Phonograph.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Pygmalien",
+        "Medium",
+        "Cooldown"
+      ],
+      "Attributes": [
+        "The item to the left of this has its cooldown reduced by (  25%  \u00BB 50%   )."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "When you use the item to the left of this, slow 1 item for 3 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "When you use the item to the left of this, Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "When you use the item to the left of this, haste 1 item for 3 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "When you use the item to the left of this, shield 20"
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "When you use the item to the left of this, heal 30"
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "When you use the item to the left of this, poison 2"
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "When you use the item to the left of this, burn 3"
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "The item to the Right of this has its cooldown reduced by 25%."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "The item to the left of this has \u002B50% Crit Chance."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Pinata",
+      "ImageUrl": "/Pyg_med/Pinata.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Toy"
+      ],
+      "Attributes": [
+        "When you sell this, get 3 Chocolate Bars."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Pygmalien\u0027s Dagger",
+      "ImageUrl": "/Pyg_med/PygmaliensDagger.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Pygmalien",
+        "Medium",
+        "Damage",
+        "Economy",
+        "Value",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Deal damage equal to (  1x  \u00BB 2x   ) this item\u0027s value.",
+        "When you sell an item, this gains (  1  \u00BB 2   ) value."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "This has double value gain."
+        },
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Regal Blade",
+      "ImageUrl": "/Pyg_med/RegalBlade.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Deal (  10  \u00BB 20  \u00BB 40  \u00BB 80   ) damage.",
+        "When you sell a Weapon, this gains (  10  \u00BB 20  \u00BB 30  \u00BB 40   ) damage."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "Your weapons have \u002B1 value."
+        },
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Robe",
+      "ImageUrl": "/Pyg_med/Robe.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Apparel",
+        "Shield"
+      ],
+      "Attributes": [
+        "Cooldown 5 seconds",
+        "Shield 20.",
+        "Your Shield items gain (  5  \u00BB 10  \u00BB 15   ) Shield for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield bonus."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Shield."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Your Shield items gain \u002B10% Crit Chance for the fight."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Safe",
+      "ImageUrl": "/Pyg_med/Safe.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Economy"
+      ],
+      "Attributes": [
+        "When you sell this, get 3 Spare Change."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Silk Scarf",
+      "ImageUrl": "/Pyg_med/SilkScarf.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Apparel",
+        "Shield"
+      ],
+      "Attributes": [
+        "Cooldown 7 seconds",
+        "Shield (  10  \u00BB 20  \u00BB 40  \u00BB 80   ).",
+        "When you sell another non-weapon item, this gains Shield (  4  \u00BB 8  \u00BB 12  \u00BB 16   )."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "Your non-weapon items have \u002B1 value."
+        },
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 3 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 4 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 3 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Shield."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Snow Globe",
+      "ImageUrl": "/Pyg_med/SnowGlobe.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Freeze",
+        "Property",
+        "Toy"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Freeze 1 medium or small item for (  1  \u00BB 2  \u00BB 3   ) second(s).",
+        "This has \u002B1 Multicast for each adjacent Property."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "This has double Freeze duration."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 30."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 45."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 3."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 4."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Adjacent properties have \u002B25% Crit Chance."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Spiky Shield",
+      "ImageUrl": "/Pyg_med/SpikyShield.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Damage",
+        "Shield",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 8 seconds",
+        "Shield (  5  \u00BB 10  \u00BB 20  \u00BB 40   ).",
+        "Deal damage equal to your shield."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 3 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 3 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 3 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to your Shield."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Stained Glass Window",
+      "ImageUrl": "/Pyg_med/StainedGlassWindow.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Pygmalien",
+        "Medium",
+        "Property",
+        "Value"
+      ],
+      "Attributes": [
+        "When you win a fight with Stained Glass Window in play, your Properties in play gain (  4  \u00BB 6   ) value.",
+        "When you lose a fight with Stained Glass Window in play, your Properties in play lose 2 value.",
+        "If you have 4 or fewer items in play, their cooldowns are reduced by (  10%  \u00BB 20%   )."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "This has double value bonus."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "Double Value"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Tea Set",
+      "ImageUrl": "/Pyg_med/TeaSet.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Pygmalien",
+        "Medium",
+        "Heal",
+        "Health"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Heal equal to (  5%  \u00BB 10%   ) of your Max Health.",
+        "Permanently gain (  5  \u00BB 10   ) Max Health."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 4 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 4 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s Heal."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "This has double Heal."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Heal."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Heal."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Textiles",
+      "ImageUrl": "/Pyg_med/Textiles.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "Heal",
+        "Shield"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Shield (  10  \u00BB 20  \u00BB 40  \u00BB 80   ).",
+        "Heal equal to your Shield."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "This has double Heal."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Vending Machine",
+      "ImageUrl": "/Pyg_med/VendingMachine.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Pygmalien",
+        "Medium",
+        "Property"
+      ],
+      "Attributes": [
+        "At the start of each day, get 3 Chocolate Bars or Spare Changes."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "Your Chocolate Bars and Spare Change have \u002B1 value."
+        }
+      ]
+    },
+    {
+      "Name": "Weights",
+      "ImageUrl": "/Pyg_med/Weights.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Pygmalien",
+        "Medium",
+        "DamageReference",
+        "HealReference",
+        "Tool"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Your weapons gain (  \u002B10  \u00BB \u002B15  \u00BB \u002B20  \u00BB \u002B25   ) Damage and your Heal items gain (  \u002B10  \u00BB \u002B15  \u00BB \u002B20  \u00BB \u002B25   ) Heal for the fight.",
+        "When you Over-heal, charge this 1 second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 medium or small item for 4 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 2 items for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Your Shield items gain \u002B15 shield for the fight."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "This has double Heal bonus."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Your Poison items gain \u002B2 poison for the fight."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Your Burn items gain \u002B3 burn for the fight."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Your items gain \u002B20% Crit Chance for the fight."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    }
+  ]
+}

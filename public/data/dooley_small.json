@@ -1,0 +1,2362 @@
+{
+  "Items": [
+    {
+      "Name": "Alpha Ray",
+      "ImageUrl": "/Dooley_small/AlphaRay.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Damage",
+        "Ray",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 5 seconds",
+        "Deal (  8  \u00BB 12  \u00BB 16  \u00BB 20   ) damage.",
+        "When you use the Core or another Ray, your Weapons gain (  \u002B2  \u00BB \u002B3  \u00BB \u002B4  \u00BB \u002B5   ) Damage for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Arc Blaster",
+      "ImageUrl": "/Dooley_small/ArcBlaster.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Damage",
+        "Tech",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Deal (  20  \u00BB 40  \u00BB 60  \u00BB 80   ) damage.",
+        "When you use a Tech, charge this 1 second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Barbed Wire",
+      "ImageUrl": "/Dooley_small/BarbedWire.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Dooley",
+        "Small",
+        "Damage",
+        "ShieldReference",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Deal 10 damage.",
+        "When you Shield, this gains (  5  \u00BB 10  \u00BB 15   ) Damage for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Battery",
+      "ImageUrl": "/Dooley_small/Battery.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Ammo",
+        "Charge",
+        "Tech"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Ammo 4",
+        "Charge the item to the left of this (  1  \u00BB 2  \u00BB 3  \u00BB 4   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 30."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 45."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 3."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 4."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "The item to the left gains \u002B25% Crit Chance for the fight."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Beta Ray",
+      "ImageUrl": "/Dooley_small/BetaRay.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Dooley",
+        "Small",
+        "Freeze",
+        "Ray"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Freeze 1 small item for (  1  \u00BB 2   ) second(s).",
+        "When you use the Core or another Ray, charge this 1 second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "This has double Freeze duration."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 30."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 45."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 3."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 4."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Bomb Squad",
+      "ImageUrl": "/Dooley_small/BombSquad.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Burn",
+        "Friend"
+      ],
+      "Attributes": [
+        "Cooldown 8 seconds",
+        "Burn (  4  \u00BB 5  \u00BB 6  \u00BB 7   ).",
+        "When you use an adjacent friend, Haste this (  1  \u00BB 2  \u00BB 3  \u00BB 4   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "This has double Haste duration."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to 10 times this item\u0027s Burn."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to 10 times this item\u0027s Burn."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to this item\u0027s Burn."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "This has double Burn."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Capacitor",
+      "ImageUrl": "/Dooley_small/Capacitor.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Dooley",
+        "Small",
+        "Charge",
+        "Tech"
+      ],
+      "Attributes": [
+        "Cooldown (  7  \u00BB 6  \u00BB 5   ) seconds",
+        "Charge adjacent items 1 second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 3 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 3 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 45."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 70."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 4."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 7."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Adjacent items have \u002B25% Crit Chance."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Char Cole",
+      "ImageUrl": "/Dooley_small/CharCole.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Dooley",
+        "Small",
+        "Burn",
+        "Friend"
+      ],
+      "Attributes": [
+        "Cooldown 8 seconds",
+        "Burn (  1  \u00BB 2  \u00BB 3   ).",
+        "When you use another friend, this gains (  1  \u00BB 2  \u00BB 3   ) Burn for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to 10 times this item\u0027s Burn."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to 10 times this item\u0027s Burn."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to this item\u0027s Burn."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "This has double Burn."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Chris Army Knife",
+      "ImageUrl": "/Dooley_small/ChrisArmyKnife.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Damage",
+        "Friend",
+        "Shield",
+        "Tool",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 5 seconds",
+        "Deal (  6  \u00BB 12  \u00BB 18  \u00BB 24   ) damage.",
+        "Shield (  6  \u00BB 12  \u00BB 18  \u00BB 24   )."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Cog",
+      "ImageUrl": "/Dooley_small/Cog.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Dooley",
+        "Small",
+        "Haste"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Haste 1 adjacent item for (  1  \u00BB 2  \u00BB 3   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "This has double Haste duration."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 20."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 30."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 2."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 3."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "An adjacent item gains 20% Crit Chance for the fight."
+        }
+      ]
+    },
+    {
+      "Name": "Cool LEDs",
+      "ImageUrl": "/Dooley_small/CoolLEDs.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Dooley",
+        "Small",
+        "Slow",
+        "Tech"
+      ],
+      "Attributes": [
+        "Cooldown 5 seconds",
+        "Slow 1 item for (  2  \u00BB 3  \u00BB 4   ) second(s).",
+        "When you use the Core, charge this 1 second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "This has double Slow duration."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 20."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 30."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 2."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 3."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Coolant",
+      "ImageUrl": "/Dooley_small/Coolant.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Freeze"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Freeze 1 small item for (  1  \u00BB 2  \u00BB 3  \u00BB 4   ) second(s).",
+        "Cleanse half your Burn."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "This has double Freeze duration."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 30."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 45."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 3."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 4."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Cooling Fan",
+      "ImageUrl": "/Dooley_small/CoolingFan.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Dooley",
+        "Small",
+        "BurnReference",
+        "Crit",
+        "Tech"
+      ],
+      "Attributes": [
+        "Cooldown 5 seconds",
+        "The Core gains (  \u002B5%  \u00BB \u002B10%  \u00BB \u002B15%   ) Crit Chance for the fight.",
+        "While either player has Burn, reduce this item\u0027s cooldown by 50%."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 25."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 40."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 2."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 4."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "An item gains \u002B20% Crit Chance for the fight."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Copper Ed",
+      "ImageUrl": "/Dooley_small/CopperEd.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Friend",
+        "Poison",
+        "Shield"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Poison (  1  \u00BB 2  \u00BB 3  \u00BB 4   ).",
+        "Shield (  5  \u00BB 10  \u00BB 15  \u00BB 20   )."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 45."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "This has double Poison."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 4."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Crypto",
+      "ImageUrl": "/Dooley_small/Crypto.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Tech",
+        "Value"
+      ],
+      "Attributes": [
+        "At the start of each hour, set this item\u0027s value to a number between 0 and (  5  \u00BB 10  \u00BB 20  \u00BB 40   )."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "This has double value."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has double value."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Duct Tape",
+      "ImageUrl": "/Dooley_small/DuctTape.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Shield",
+        "Slow",
+        "Tool"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Slow 1 item for (  1  \u00BB 2  \u00BB 3  \u00BB 4   ) second(s).",
+        "When you use an adjacent item, Shield (  4  \u00BB 8  \u00BB 12  \u00BB 16   )."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "This has double Slow duration."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Shield."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 3."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 4."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Fiber Optics",
+      "ImageUrl": "/Dooley_small/FiberOptics.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Dooley",
+        "Small",
+        "Charge",
+        "Tech"
+      ],
+      "Attributes": [
+        "When you use your leftmost item, charge your rightmost item (  1  \u00BB 2   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "When you use your leftmost item, Slow 1 item 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "When you use your leftmost item, Freeze 1 small item 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "When you use your leftmost item, Haste your rightmost item 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "When you use your leftmost item, Shield 15."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "When you use your leftmost item, Heal 20."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "When you use your leftmost item, Poison 1."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "When you use your leftmost item, Burn 2."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has double Charge amount."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "When you use the leftmost item, the rightmost item gains \u002B25% Crit Chance for the fight."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "First Aiden",
+      "ImageUrl": "/Dooley_small/FirstAiden.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Friend",
+        "Haste",
+        "Heal"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Heal (  20  \u00BB 30  \u00BB 40  \u00BB 50   ).",
+        "Haste 1 item for (  1  \u00BB 2  \u00BB 3  \u00BB 4   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "This has double Haste duration."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s Heal."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "This has double Heal."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Heal."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Heal."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Gamma Ray",
+      "ImageUrl": "/Dooley_small/GammaRay.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Dooley",
+        "Small",
+        "Poison",
+        "Ray"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Poison (  2  \u00BB 3  \u00BB 4   ).",
+        "When you use the Core or another Ray, this and adjacent Poison items gain (  1  \u00BB 2  \u00BB 3   ) Poison for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 20."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 30."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "This has double Poison."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 3."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Gearnola Bar",
+      "ImageUrl": "/Dooley_small/GearnolaBar.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Ammo",
+        "Shield"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Ammo 2",
+        "Shield (  30  \u00BB 60  \u00BB 90  \u00BB 120   ).",
+        "When you sell a Tool, this gains \u002B1 Max Ammo."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Shield."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "GPU",
+      "ImageUrl": "/Dooley_small/GPU.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Haste",
+        "Tech"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Haste the Core for (  1  \u00BB 2  \u00BB 3  \u00BB 4   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "This has double Haste duration."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 20."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 30."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 2."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 3."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Hammlet",
+      "ImageUrl": "/Dooley_small/Hammlet.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Damage",
+        "Friend",
+        "SlowReference",
+        "Tool",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Deal (  15  \u00BB 25  \u00BB 35  \u00BB 50   ) damage.",
+        "When you Slow, charge this 1 second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Induction Aegis",
+      "ImageUrl": "/Dooley_small/InductionAegis.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Burn",
+        "Shield",
+        "Tech"
+      ],
+      "Attributes": [
+        "Cooldown 5 seconds",
+        "Shield (  10  \u00BB 15  \u00BB 20  \u00BB 25   ).",
+        "Burn (  1  \u00BB 2  \u00BB 3  \u00BB 4   )."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Shield."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to this item\u0027s Burn."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "This has double Burn."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Isochoric Freezer",
+      "ImageUrl": "/Dooley_small/IsochoricFreezer.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Freeze"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Freeze a small item for (  1  \u00BB 2  \u00BB 3  \u00BB 4   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "This has double Freeze duration."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 35."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 50."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 3."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 5."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Laser Pistol",
+      "ImageUrl": "/Dooley_small/LaserPistol.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Deal (  8  \u00BB 16  \u00BB 24  \u00BB 32   ) damage."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Lens",
+      "ImageUrl": "/Dooley_small/Lens.avif",
+      "Tags": [
+        "Gold\u002B",
+        "Dooley",
+        "Small",
+        "Charge",
+        "DamageReference",
+        "HasteReference",
+        "Tech"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "The Core gains (  \u002B5  \u00BB \u002B10   ) damage for the fight.",
+        "When this gains haste, charge it (  1  \u00BB 2   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 30."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 45."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 3."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 4."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Lightbulb",
+      "ImageUrl": "/Dooley_small/Lightbulb.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Crit",
+        "Tech"
+      ],
+      "Attributes": [
+        "Cooldown 3 seconds",
+        "Adjacent items gain (  2%  \u00BB 4%  \u00BB 6%  \u00BB 8%   ) Crit chance for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 15."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 20."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 1."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 2."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "This has double Crit Chance bonus."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Memory Card",
+      "ImageUrl": "/Dooley_small/MemoryCard.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "DamageReference",
+        "Tech",
+        "Value"
+      ],
+      "Attributes": [
+        "Cooldown 10 seconds",
+        "This gains 1 Value.",
+        "When you sell this, The Core gains \u002B Damage equal to (  1x  \u00BB 2x  \u00BB 3x  \u00BB 4x   ) this item\u0027s value. (  1  \u00BB 4  \u00BB 12  \u00BB 32   )"
+      ],
+      "Enchantments": [
+        {
+          "Name": "Golden",
+          "Effect": "This has double value."
+        },
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 4 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 4 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 60."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 90."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 6."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 9."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "When you sell this, the Core gains Crit Chance equal to this item\u0027s value. 1"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Metronome",
+      "ImageUrl": "/Dooley_small/Metronome.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Dooley",
+        "Small",
+        "Haste"
+      ],
+      "Attributes": [
+        "When you use an adjacent item, Haste the other adjacent item for (  1  \u00BB 2  \u00BB 3   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "When you use an adjacent item, Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "When you use an adjacent item, Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "This has double Haste duration."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "When you use an adjacent item, Shield 10."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "When you use an adjacent item, Heal 15."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "When you use an adjacent item, Poison 1."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "When you use an adjacent item, Burn 1."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has double Haste duration."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "When you use an adjacent item, the other adjacent item gains 25% Crit Chance."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Nitro",
+      "ImageUrl": "/Dooley_small/Nitro.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Dooley",
+        "Small",
+        "Burn",
+        "Charge",
+        "Tech"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Burn both players (  4  \u00BB 6  \u00BB 8   ).",
+        "Charge 1 item (  1  \u00BB 2  \u00BB 3   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to 10 times this item\u0027s Burn."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to 10 times this item\u0027s Burn."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to this item\u0027s Burn."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "This has double Burn."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Omega Ray",
+      "ImageUrl": "/Dooley_small/OmegaRay.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Dooley",
+        "Small",
+        "Burn",
+        "Ray"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Burn (  4  \u00BB 6  \u00BB 8   ).",
+        "When you use the Core or another Ray, this and adjacent Burn items gain (  2  \u00BB 3  \u00BB 4   ) Burn for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to 10 times this item\u0027s Burn."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to 10 times this item\u0027s Burn."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to this item\u0027s Burn."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "This has double Burn."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Plasma Grenade",
+      "ImageUrl": "/Dooley_small/PlasmaGrenade.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Ammo",
+        "Burn",
+        "Slow"
+      ],
+      "Attributes": [
+        "Cooldown 8 seconds",
+        "Ammo 1",
+        "Burn both players (  5  \u00BB 10  \u00BB 15  \u00BB 20   ).",
+        "Slow all enemy items for (  1  \u00BB 2  \u00BB 3  \u00BB 4   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "This has double Slow duration."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze all enemy small items for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste your items for 5 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 160."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 240."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 16."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "This has double Burn."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Your items gain \u002B25% Crit Chance for the fight."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Power Sander",
+      "ImageUrl": "/Dooley_small/PowerSander.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "DamageReference",
+        "ShieldReference",
+        "Tool"
+      ],
+      "Attributes": [
+        "Cooldown 4 seconds",
+        "Adjacent weapons gain (  3  \u00BB 6  \u00BB 9  \u00BB 12   ) damage for the fight.",
+        "Adjacent Shield items gain (  3  \u00BB 6  \u00BB 9  \u00BB 12   ) Shield for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 20."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 30."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 2."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 3."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Adjacent items gain 10% Crit chance for the fight."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Red Button",
+      "ImageUrl": "/Dooley_small/RedButton.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Dooley",
+        "Small",
+        "Charge",
+        "Tech"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Charge adjacent Large items (  2  \u00BB 3  \u00BB 4   ) second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 30."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 45."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 3."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 4."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "Adjacent items gain \u002B10% Crit Chance for the fight."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Remote Control",
+      "ImageUrl": "/Dooley_small/RemoteControl.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Dooley",
+        "Small",
+        "Tech"
+      ],
+      "Attributes": [
+        "Cooldown (  10  \u00BB 8  \u00BB 6   ) seconds",
+        "Use the Core."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 40."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 60."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 4."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 6."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "The Core has \u002B50% Crit Chance."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Soldering Gun",
+      "ImageUrl": "/Dooley_small/SolderingGun.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Dooley",
+        "Small",
+        "Burn",
+        "Tool"
+      ],
+      "Attributes": [
+        "Cooldown 5 seconds",
+        "Burn (  1  \u00BB 2  \u00BB 3   ).",
+        "This has \u002B1 Multicast if it is adjacent to a Friend.",
+        "This has \u002B1 Multicast if it is adjacent to a Tool."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to 10 times this item\u0027s Burn."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to 10 times this item\u0027s Burn."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to this item\u0027s Burn."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "This has double Burn."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Thrusters",
+      "ImageUrl": "/Dooley_small/Thrusters.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Burn",
+        "Cooldown",
+        "Tech"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Burn both players (  2  \u00BB 3  \u00BB 4  \u00BB 5   ).",
+        "Adjacent items have their cooldowns reduced by (  6%  \u00BB 9%  \u00BB 12%  \u00BB 15%   )."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to 10 times this item\u0027s Burn."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to 10 times this item\u0027s Burn."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to this item\u0027s Burn."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "This has double Burn."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Uzi",
+      "ImageUrl": "/Dooley_small/Uzi.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Ammo",
+        "Damage",
+        "Weapon"
+      ],
+      "Attributes": [
+        "Cooldown 2 seconds",
+        "Ammo 12",
+        "Deal (  2  \u00BB 4  \u00BB 8  \u00BB 16   ) damage."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 1 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield equal to this item\u0027s damage."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Damage."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s damage."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        },
+        {
+          "Name": "Obsidian",
+          "Effect": "This has Lifesteal."
+        }
+      ]
+    },
+    {
+      "Name": "Virus",
+      "ImageUrl": "/Dooley_small/Virus.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Dooley",
+        "Small",
+        "Poison",
+        "Tech"
+      ],
+      "Attributes": [
+        "Cooldown 12 seconds",
+        "Poison (  1  \u00BB 2  \u00BB 3   ).",
+        "Destroy another small item on each player\u0027s board for the fight.",
+        "When you destroy an item, this gains (  5  \u00BB 10  \u00BB 15   ) Poison for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 4 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 2 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 4 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 60."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 90."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "This has double Poison."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to this item\u0027s Poison."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Wallace",
+      "ImageUrl": "/Dooley_small/Wallace.avif",
+      "Tags": [
+        "Bronze\u002B",
+        "Dooley",
+        "Small",
+        "Friend",
+        "Shield"
+      ],
+      "Attributes": [
+        "Cooldown 6 seconds",
+        "Shield 10.",
+        "This gains (  10  \u00BB 15  \u00BB 20  \u00BB 25   ) Shield for the fight."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 2 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "This has double Shield."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal equal to this item\u0027s Shield."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn equal to 10% of this item\u0027s Shield."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Deadly",
+          "Effect": "\u002B50% Crit Chance"
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    },
+    {
+      "Name": "Walter Cooler",
+      "ImageUrl": "/Dooley_small/WalterCooler.avif",
+      "Tags": [
+        "Silver\u002B",
+        "Dooley",
+        "Small",
+        "Friend",
+        "Health"
+      ],
+      "Attributes": [
+        "Cooldown (  10  \u00BB 9  \u00BB 8   ) seconds",
+        "Permanently gain (  10  \u00BB 15  \u00BB 20   ) Max Health.",
+        "When you use an adjacent friend, charge this 1 second(s)."
+      ],
+      "Enchantments": [
+        {
+          "Name": "Heavy",
+          "Effect": "Slow 1 item for 3 second(s)."
+        },
+        {
+          "Name": "Icy",
+          "Effect": "Freeze 1 small item for 1 second(s)."
+        },
+        {
+          "Name": "Turbo",
+          "Effect": "Haste 1 item for 3 second(s)."
+        },
+        {
+          "Name": "Shielded",
+          "Effect": "Shield 50."
+        },
+        {
+          "Name": "Restorative",
+          "Effect": "Heal 75."
+        },
+        {
+          "Name": "Toxic",
+          "Effect": "Poison 5."
+        },
+        {
+          "Name": "Fiery",
+          "Effect": "Burn 7."
+        },
+        {
+          "Name": "Shiny",
+          "Effect": "This has \u002B1 Multicast."
+        },
+        {
+          "Name": "Radiant",
+          "Effect": "This cannot be Frozen, Slowed or Destroyed."
+        }
+      ]
+    }
+  ]
+}
